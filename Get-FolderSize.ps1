@@ -16,7 +16,7 @@ Author: Sedat Kapanoglu
 Date:   August 31st, 2015
 
 .LINK
-https://github.com/ssg
+https://github.com/ssg/Move-Shadow
 #>
 param (
     [string]$path = "."
