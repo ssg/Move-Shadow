@@ -35,7 +35,7 @@ Author: Sedat Kapanoglu
 Date:   August 19th, 2015
 
 .LINK
-https://github.com/ssg
+https://github.com/ssg/Move-Shadow
 #>
 #Requires -RunAsAdministrator
 
